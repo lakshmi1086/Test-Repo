@@ -11,7 +11,7 @@ public class Armstrong {
 			num=num/10;
 		}
 		System.out.println(sum);
-		System.out.println("Printed Armstrong numbers");
+		System.out.println("Printed Armstrong numbers test");
 
 	}
 
